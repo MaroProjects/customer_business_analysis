@@ -18,13 +18,19 @@ Celem raportu jest:
   - Pareto dla grup produktów – identyfikacja produktów generujących największy przychód.  
   - Pareto dla klientów – analiza zakupów klientów i określenie, które z nich są kluczowe dla firmy.  
   - Pareto dla wartości koszyka – analiza przedziałów wartości zakupowych.
-  
+    <img src="https://github.com/user-attachments/assets/3969f472-d932-4466-9673-a5412accd937" alt="analiza_pareto" width="50%" style="display: block; margin-left: 0;" />
+
 - **Analiza reguł decyzyjnych:**  
   - Badanie asocjacji między produktami na podstawie reguł decyzyjnych, co pozwala zrozumieć wzajemne powiązania w koszykach zakupowych.
+
+    <img src="https://github.com/user-attachments/assets/96bc4c3b-f8ca-4a02-8415-e7ca7ba266fd" alt="induced_decision_rules" width="50%" style="display: block; margin left: 0;" />
 
 - **Segmentacja klientów:**  
   - Zastosowanie metody RFM (Recency, Frequency, Monetary) w celu segmentacji klientów.
   - Ocena jakości segmentacji przy użyciu wskaźnika Silhouette Score.
+
+ - **Inne wizualizacje:**  
+    <img src="https://github.com/user-attachments/assets/014d0f45-8382-415b-9636-de478c18b665" alt="induced_decision_rules" width="50%" style="display: block; margin left: 0;" />
 
 ## Struktura projektu
 
